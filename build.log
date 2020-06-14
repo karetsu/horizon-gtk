@@ -1,0 +1,90 @@
+DEPRECATION WARNING on line 125 of gtk-3.20/widgets/_base-states.scss:
+Extending a compound selector, %selected_items:disabled, is deprecated and will not be supported in a future release.
+Consider "@extend %selected_items, :disabled" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 133 of gtk-3.20/widgets/_base-states.scss:
+Extending a compound selector, %selected_items:backdrop, is deprecated and will not be supported in a future release.
+Consider "@extend %selected_items, :backdrop" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 13 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked:last-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked, :last-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 14 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked:first-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked, :first-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 21 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %button_basic:drop(active), is deprecated and will not be supported in a future release.
+Consider "@extend %button_basic, :drop(active)" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 34 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked:first-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked, :first-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 35 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked:last-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked, :last-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 36 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked:only-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked, :only-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 39 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked_vertical:first-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked_vertical, :first-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 40 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked_vertical:last-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked_vertical, :last-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 41 of gtk-3.20/widgets/_comboboxes.scss:
+Extending a compound selector, %linked_vertical:only-child, is deprecated and will not be supported in a future release.
+Consider "@extend %linked_vertical, :only-child" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 161 of gtk-3.20/widgets/_header-bars.scss:
+Extending a compound selector, *:link:selected, is deprecated and will not be supported in a future release.
+Consider "@extend *, :link, :selected" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 36 of gtk-3.20/widgets/_links.scss:
+Extending a compound selector, *:link, is deprecated and will not be supported in a future release.
+Consider "@extend *, :link" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 126 of gtk-3.20/widgets/_notebooks.scss:
+Extending a compound selector, %button_basic.flat, is deprecated and will not be supported in a future release.
+Consider "@extend %button_basic, .flat" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 44 of gtk-3.20/widgets/_popovers.scss:
+Extending a compound selector, modelbutton.flat, is deprecated and will not be supported in a future release.
+Consider "@extend modelbutton, .flat" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 31 of gtk-3.20/widgets/_progress-bars.scss:
+Extending a compound selector, %scale_trough:backdrop, is deprecated and will not be supported in a future release.
+Consider "@extend %scale_trough, :backdrop" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 37 of gtk-3.20/widgets/_progress-bars.scss:
+Extending a compound selector, %scale_highlight:backdrop, is deprecated and will not be supported in a future release.
+Consider "@extend %scale_highlight, :backdrop" instead.
+See http://bit.ly/ExtendCompound for details.
+
+DEPRECATION WARNING on line 97 of gtk-3.20/widgets/_windows.scss:
+Extending a compound selector, %button.flat.suggested-action, is deprecated and will not be supported in a future release.
+Consider "@extend %button, .flat, .suggested-action" instead.
+See http://bit.ly/ExtendCompound for details.
+

@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Ant
-Comment=A flat and light theme with a modern look
+Name=Horizon
+Comment=Based on horizon
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Ant
-MetacityTheme=Ant
-IconTheme=Boston
+GtkTheme=Horizon
+MetacityTheme=Horizon
+IconTheme=Tela-Red
 ButtonLayout=:minimize,maximize,close
